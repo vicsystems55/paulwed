@@ -11,7 +11,7 @@
         <meta name="author" content="">
 
         <!-- Page Title -->
-        <title>Portfolio HTML5 Template</title>
+        <title>Cynthia & Paul | Wedding</title>
 
         <!-- Favicon and touch Icons -->
         <link href="images/favicon.png" rel="shortcut icon" type="image/png">
@@ -45,53 +45,18 @@
 						<nav id="flexmenu">
 							<div class="nav-inner">
 								<ul class="main-menu">
-									<li class="menu-item"><a href="index.html">Home</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="index-2.html">Home 2</a></li>
-											<li class="menu-item"><a href="index-3.html">Home 3</a></li>
-											<li class="menu-item"><a href="index-4.html">Home 4</a></li>
-											<li class="menu-item"><a href="index-5.html">Home 5</a></li>
-										</ul>
+									<li class="menu-item"><a href="/">Home</a>
+
 									</li>
-									<li class="menu-item"><a href="#">Gallery</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="portfolio-1.html">Portfolio 1</a></li>
-											<li class="menu-item"><a href="portfolio-2.html">Portfolio 2</a></li>
-											<li class="menu-item"><a href="portfolio-3.html">Portfolio 3</a></li>
-											<li class="menu-item"><a href="portfolio-4.html">Portfolio 4</a></li>
-											<li class="menu-item"><a href="masonry.html">Portfolio Masonry</a></li>
-											<li class="menu-item"><a href="portfolio-single-1.html">Portfolio Single 1</a></li>
-											<li class="menu-item"><a href="portfolio-single-2.html">Portfolio Single 2</a></li>
-										</ul>
+									<li class="menu-item"><a href="/gallery">Gallery</a>
+
 									</li>
-									<li class="menu-item active"><a href="#">About</a>
-										<ul class="sub-menu">
-											<li class="menu-item active"><a href="aboutus-1.html">About Us 1</a></li>
-											<li class="menu-item"><a href="aboutus-2.html">About Us 2</a></li>
-											<li class="menu-item"><a href="aboutus-3.html">About Us 3</a></li>
-											<li class="menu-item"><a href="aboutme.html">About Me</a></li>
-										</ul>
-									</li>
+
 									<li class="menu-item"><a href="#">Contacts</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="contact-1.html">Contact 1</a></li>
-											<li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-										</ul>
+
 									</li>
-									<li class="menu-item"><a href="#">Blog</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="blog-1.html">Blog 1</a></li>
-											<li class="menu-item"><a href="blog-2.html">Blog 2</a></li>
-											<li class="menu-item"><a href="blog-3.html">Blog 3</a></li>
-											<li class="menu-item"><a href="blog-single-1.html">Blog Single 1</a></li>
-											<li class="menu-item"><a href="blog-single-2.html">Blog Single 2</a></li>
-										</ul>
-									</li>
-									<li class="menu-item"><a href="#">Pages</a>
-										<ul class="sub-menu">
-											<li class="menu-item"><a href="elements.html">Elements</a></li>
-										</ul>
-									</li>
+
+
 								</ul>
 							</div>
 						</nav>
@@ -102,14 +67,8 @@
 									<span class="toggle_line"></span>
 									<span class="toggle_line"></span>
 								</div>
-								<a href="#" class="search_icon"><i class="fa fa-search"></i></a>
-								<div class="search_overlay">
-									<span class="closebtn">&times;</span>
-									<form class="search-form" action="http://wpthemebooster.com/demo/themeforest/html/oculus/search.php">
-										<input type="text" name="search" class="keyword form-control" placeholder="Search">
-										<button type="submit" class="form-control form-control-submit"><i class="fa fa-search"></i></button>
-									</form>
-								</div>
+								<a href="#" class="search_icon"></a>
+
 							</div>
 						</div>
 					</div>
@@ -120,52 +79,17 @@
 	                <nav id="overlaymenu">
 	                	<ul class="main-menu">
 	                		<li class="menu-item"><a href="index.html">Home</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="index-2.html">Home 2</a></li>
-									<li class="menu-item"><a href="index-3.html">Home 3</a></li>
-									<li class="menu-item"><a href="index-4.html">Home 4</a></li>
-									<li class="menu-item"><a href="index-5.html">Home 5</a></li>
-								</ul>
+
 							</li>
 							<li class="menu-item"><a href="#">Gallery</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="portfolio-1.html">Portfolio 1</a></li>
-									<li class="menu-item"><a href="portfolio-2.html">Portfolio 2</a></li>
-									<li class="menu-item"><a href="portfolio-3.html">Portfolio 3</a></li>
-									<li class="menu-item"><a href="portfolio-4.html">Portfolio 4</a></li>
-									<li class="menu-item"><a href="masonry.html">Portfolio Masonry</a></li>
-									<li class="menu-item"><a href="portfolio-single-1.html">Portfolio Single 1</a></li>
-									<li class="menu-item"><a href="portfolio-single-2.html">Portfolio Single 2</a></li>
-								</ul>
+
 							</li>
-							<li class="menu-item active"><a href="#">About</a>
-								<ul class="sub-menu">
-									<li class="menu-item active"><a href="aboutus-1.html">About Us 1</a></li>
-									<li class="menu-item"><a href="aboutus-2.html">About Us 2</a></li>
-									<li class="menu-item"><a href="aboutus-3.html">About Us 3</a></li>
-									<li class="menu-item"><a href="aboutme.html">About Me</a></li>
-								</ul>
-							</li>
+
 							<li class="menu-item"><a href="#">Contacts</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="contact-1.html">Contact 1</a></li>
-									<li class="menu-item"><a href="contact-2.html">Contact 2</a></li>
-								</ul>
+
 							</li>
-							<li class="menu-item"><a href="#">Blog</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="blog-1.html">Blog 1</a></li>
-									<li class="menu-item"><a href="blog-2.html">Blog 2</a></li>
-									<li class="menu-item"><a href="blog-3.html">Blog 3</a></li>
-									<li class="menu-item"><a href="blog-single-1.html">Blog Single 1</a></li>
-									<li class="menu-item"><a href="blog-single-2.html">Blog Single 2</a></li>
-								</ul>
-							</li>
-							<li class="menu-item"><a href="#">Pages</a>
-								<ul class="sub-menu">
-									<li class="menu-item"><a href="elements.html">Elements</a></li>
-								</ul>
-							</li>
+
+
 						</ul>
 	                </nav>
 	            </div>
@@ -177,60 +101,15 @@
 		            <div class="page-header-content text-center">
 		                <div class="container">
 		                    <h1 class="heading">
-		                    	About Us
+		                    	Gallery
 		                    	<span class="icon"><i class="fa fa-camera"></i></span>
 		                    </h1>
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed bibendum leo. Mauris <br> massa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
+							<p>What God has joined together let no man put asunder</p>
 		                </div>
 		            </div>
 		        </div>
 
-				<div class="about_skill_sec">
-					<div class="container">
-							<div class="row">
-								<div class="col-md-4">
-									<div class="progress-heading">Our Passion On Photography</div>
-								</div>
-								<div class="col-md-8">
-									<div class="content-heading-black">
-										<h6>what we do</h6>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed biben dum leo maur massa eleifend et purus vel feugiat rutrum nulla. Cras vitae est velpsbus fermentum a ultricies urna cum sociis ut valley et.Cras mattis iudicium purus sit amet fermentum at nos hinc posthac, sitientis piros afros. Lorem ipsum dolor sit amet, consectetur adipisici elit, petierunt uti sibi concilium totius Galliae in diem sed eius mod tempor incidunt ut labore et dolore magna aliqua. </p>
-									</div>
-									<div class="row">
-										<div class="col-md-6">
-											<div class="about-progress">
-												<h6>Marketing</h6>
-												<div class="progress">
-													<div class="progress-bar" style="max-width: 75%;"></div>
-													<span class="title">75%</span>
-												</div>
 
-												<h6>Development</h6>
-												<div class="progress">
-													<div class="progress-bar" style="max-width: 86%;"></div>
-													<span class="title">86%</span>
-												</div>
-											</div>
-										</div>
-										<div class="col-md-6">
-											<div class="about-progress">
-												<h6>User Experience</h6>
-												<div class="progress">
-													<div class="progress-bar" style="max-width: 60%;"></div>
-													<span class="title">60%</span>
-												</div>
-												<h6>Design</h6>
-												<div class="progress">
-													<div class="progress-bar" style="max-width: 96%;"></div>
-													<span class="title">96%</span>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-					</div>
-				</div>
 
 				<div class="portfolio-grid">
 					<div class="overlay_effect grid grid-5 gutter-0 clearfix">
@@ -398,57 +277,7 @@
 					</div>
 				</div>
 
-				<div class="about_bottom_part bg_light">
-					<div class="container">
-						<div class="feature_inner_sec">
-							<div class="row">
-								<div class="col-md-4">
-									<div class="number-icon-box">
-										<span>01</span>
-										<h3>Photography of Nature</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed bibendum leo maur assa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="number-icon-box">
-										<span>02</span>
-										<h3>wedding Photography</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed bibendum leo maur assa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="number-icon-box">
-										<span>03</span>
-										<h3>Photography of festivals</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed bibendum leo maur assa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
-									</div>
-								</div>
 
-								<div class="col-md-4">
-									<div class="number-icon-box">
-										<span>04</span>
-										<h3>Wildlife photography</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed bibendum leo maur assa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="number-icon-box">
-										<span>05</span>
-										<h3>Newborn Photography</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed bibendum leo maur assa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
-									</div>
-								</div>
-								<div class="col-md-4">
-									<div class="number-icon-box">
-										<span>06</span>
-										<h3>Photography of events</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed bibendum leo maur assa eleifend et purus vel feugiat rutrum nulla cras vitae est.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
 
 				<div class="banner_1">
 					<div class="container">
@@ -466,19 +295,18 @@
 
 			</div>
 
-			<div class="page_title"><span>About Us</span></div>
+
 			<footer class="footer">
 				<div class="footer_inner">
 					<div class="copyright">
-						<p> &copy;Oculus 2020. All rights reserved</p>
+						<p> &copy;vicSystems Technologies Ltd. 2020. All rights reserved</p>
 					</div>
 					<div class="social-icon">
 						<ul>
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-							<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+
 						</ul>
 					</div>
 				</div>

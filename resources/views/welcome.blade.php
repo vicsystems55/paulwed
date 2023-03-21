@@ -93,7 +93,7 @@
 											<h4 class="slider-tag">15th, APRIL, 2023</h4>
 											<h1 class="slide_heading"><span>Cynthia & Paul</span></h1>
 											<div class="button_group">
-												<a href="portfolio-1.html" class="button effect_1 fade_black_button"><span>Explore Gallery</span></a>
+												<a href="/gallery" class="button effect_1 fade_black_button"><span>Explore Gallery</span></a>
 											</div>
 										</div>
 										<a class="popup fancyswiper" href="images/slider/bg_3.jpg" data-fancybox="images">
@@ -106,10 +106,10 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_4.jpg')">
 									<div class="slider-inner">
 										<div class="slider-details">
-											<h4 class="slider-tag">Travelling</h4>
-											<h1 class="slide_heading"><span>Beautiful Nature</span></h1>
+											<h4 class="slider-tag">TRADITIONAL WEDDING</h4>
+											<h1 class="slide_heading"><span>Ifeyinwa & Shekwonyadu</span></h1>
 											<div class="button_group">
-												<a href="portfolio-2.html" class="button effect_2 fade_black_button"><span>Explore Gallery</span></a>
+												<a href="/gallery" class="button effect_2 fade_black_button"><span>Explore Gallery</span></a>
 											</div>
 										</div>
 										<a class="popup fancyswiper" href="images/slider/bg_4.jpg" data-fancybox="images">
@@ -122,10 +122,10 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_2.jpg')">
 									<div class="slider-inner">
 										<div class="slider-details">
-											<h4 class="slider-tag">Travelling</h4>
-											<h1 class="slide_heading"><span>Incredible Iceland</span></h1>
+											<h4 class="slider-tag">RSVP</h4>
+											<h1 class="slide_heading"><span>Celebrating Love</span></h1>
 											<div class="button_group">
-												<a href="portfolio-3.html" class="button effect_1 fade_black_button"><span>Explore Gallery</span></a>
+												<a href="/gallery" class="button effect_1 fade_black_button"><span>Explore Gallery</span></a>
 											</div>
 										</div>
 										<a class="popup fancyswiper" href="images/slider/bg_2.jpg" data-fancybox="images">
@@ -141,7 +141,7 @@
 											<h4 class="slider-tag">Travelling</h4>
 											<h1 class="slide_heading"><span>Greatest Adventure</span></h1>
 											<div class="button_group">
-												<a href="portfolio-4.html" class="button effect_3 fade_black_button"><span>Explore Gallery</span></a>
+												<a href="/gallery" class="button effect_3 fade_black_button"><span>Explore Gallery</span></a>
 											</div>
 										</div>
 										<a class="popup fancyswiper" href="images/slider/bg_3.jpg" data-fancybox="images">
@@ -165,7 +165,7 @@
 				</div>
 			</div>
 
-			
+
 			<footer class="footer">
 				<div class="footer_inner">
 					<div class="copyright">

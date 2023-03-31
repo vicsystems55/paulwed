@@ -116,11 +116,10 @@
 						<div class="grid-sizer small"></div>
 						<div class="grid-item webdesign">
 							<div class="thumb">
-								<img class="item_image" src="images/portfolio/grid/1.jpg" alt=""/>
+								<img class="item_image" style="" src="images/portfolio/grid/1.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -135,8 +134,7 @@
 								<img class="item_image" src="images/portfolio/grid/2.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -151,8 +149,7 @@
 								<img class="item_image" src="images/portfolio/grid/3.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -167,8 +164,7 @@
 								<img class="item_image" src="images/portfolio/grid/4.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -183,8 +179,7 @@
 								<img class="item_image" src="images/portfolio/grid/5.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -199,8 +194,7 @@
 								<img class="item_image" src="images/portfolio/grid/6.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -215,8 +209,7 @@
 								<img class="item_image" src="images/portfolio/grid/7.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -231,8 +224,7 @@
 								<img class="item_image" src="images/portfolio/grid/8.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -247,8 +239,7 @@
 								<img class="item_image" src="images/portfolio/grid/9.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -263,8 +254,7 @@
 								<img class="item_image" src="images/portfolio/grid/10.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										<h4>Beauty of nature in life</h4>
-										<h6>Nature & Life</h6>
+										
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>

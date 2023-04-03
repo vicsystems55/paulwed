@@ -51,7 +51,7 @@
 							</div>
 						</div>
 						<div class="logo">
-							<a href="index.html"><img src="images/logo-white.png" alt="logo"></a>
+							<a href="/"><img src="images/logo-white.png" alt="logo"></a>
 						</div>
 						<div class="nav_contact">
 							<div class="element">
@@ -66,7 +66,7 @@
 	                <a href="#" class="overlaynavclose">&times;</a>
 	                <nav id="overlaymenu">
 	                	<ul class="main-menu">
-	                		<li class="menu-item active"><a href="index.html">Home</a>
+	                		<li class="menu-item active"><a href="/">Home</a>
 
 							</li>
 							<li class="menu-item"><a href="#">Gallery</a>

@@ -40,7 +40,7 @@
 	            <div class="nav-bar">
 					<div class="navigation">
 						<div class="logo">
-							<a href="index.html"><img src="images/logo.png" alt="logo"></a>
+							<a href="/"><img src="images/logo.png" alt="logo"></a>
 						</div>
 						<nav id="flexmenu">
 							<div class="nav-inner">
@@ -78,7 +78,7 @@
 	                <a href="#" class="overlaynavclose">&times;</a>
 	                <nav id="overlaymenu">
 	                	<ul class="main-menu">
-	                		<li class="menu-item"><a href="index.html">Home</a>
+	                		<li class="menu-item"><a href="/">Home</a>
 
 							</li>
 							<li class="menu-item"><a href="#">Gallery</a>
@@ -254,7 +254,7 @@
 								<img class="item_image" src="images/portfolio/grid/10.jpg" alt=""/>
 								<div class="works-info">
 									<div class="label-text">
-										
+
 										<ul class="social">
 											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -276,7 +276,7 @@
 								<h2>We Catch Your Moment</h2>
 								<p>Aenean feugiat libero ligula, eget<br> cursus ipsum laoreet</p>
 								<div class="button_group">
-                                    <a href="masonry.html" class="button black_button effect_1" data-text="Read More"><span>Read More</span></a>
+                                    <a href="#" class="button black_button effect_1" data-text="Read More"><span>Read More</span></a>
                                 </div>
 							</div>
 						</div>

@@ -52,9 +52,7 @@
 
 									</li>
 
-									<li class="menu-item"><a href="#">Contacts</a>
 
-									</li>
 
 
 								</ul>
@@ -121,9 +119,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -136,9 +134,25 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+                        <div class="grid-item branding">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/22.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -151,9 +165,91 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+                        <div class="grid-item branding">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/33.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+                        <div class="grid-item branding">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/44.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+                        <div class="grid-item branding">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/55.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+                        <div class="grid-item branding">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/66.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+                        <div class="grid-item branding">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/77.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -166,9 +262,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -181,9 +277,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -196,9 +292,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -211,9 +307,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -226,9 +322,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -241,9 +337,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -256,9 +352,9 @@
 									<div class="label-text">
 
 										<ul class="social">
-											<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-											<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 										</ul>
 									</div>
 								</div>
@@ -273,11 +369,58 @@
 					<div class="container">
 						<div class="banner_inner">
 							<div class="banner_content">
-								<h2>We Catch Your Moment</h2>
-								<p>Aenean feugiat libero ligula, eget<br> cursus ipsum laoreet</p>
+								<h2>RESERVATIONS</h2>
+
+                                @if ($errors->any())
+                                @foreach ($errors->all() as $error)
+                                    <p class="alert alert-warning">{{$error}}</p>
+                                @endforeach
+                            @endif
+
+                                <form action="/reservation" method="post">
+                                    @csrf
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label class="" for="">Fullname:</label>
+                                                    <input type="text" name="name" class="form-control">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label for="">Email:</label>
+                                                    <input type="text" name="email" class="form-control">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label for="">Address:</label>
+                                                    <input type="text" name="address" class="form-control">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label for="">Phone:</label>
+                                                    <input type="text" name="phone" class="form-control">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label for="">Number of Invitees:</label>
+                                                    <input type="number" name="invitees" class="form-control">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
 								<div class="button_group">
-                                    <a href="#" class="button black_button effect_1" data-text="Read More"><span>Read More</span></a>
+                                    <button class="button black_button effect_1" data-text="Read More"><span>Submit</span></button>
                                 </div>
+                            </form>
 							</div>
 						</div>
 					</div>
@@ -293,9 +436,9 @@
 					</div>
 					<div class="social-icon">
 						<ul>
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-heart"></i></a></li>
+							<li><a href="#"><i class="fa fa-download"></i></a></li>
+
 
 						</ul>
 					</div>

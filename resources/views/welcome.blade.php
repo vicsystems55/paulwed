@@ -55,7 +55,7 @@
 						</div>
 						<div class="nav_contact">
 							<div class="element">
-								<h6 class="email">res@cynthiaandpaul.us</h6>
+						
 								<h6 class="phone">+23480337835670</h6>
 							</div>
 						</div>
@@ -66,16 +66,14 @@
 	                <a href="#" class="overlaynavclose">&times;</a>
 	                <nav id="overlaymenu">
 	                	<ul class="main-menu">
-	                		<li class="menu-item active"><a href="/">Home</a>
+	                		<li class="menu-item active"><a href="/">Dashboard</a>
 
 							</li>
 							<li class="menu-item"><a href="/gallery">Gallery</a>
 
 							</li>
 
-							<li class="menu-item"><a href="#">Contacts</a>
 
-							</li>
 
 						</ul>
 	                </nav>
@@ -138,8 +136,8 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_5.jpg')">
 									<div class="slider-inner border border-0">
 										<div class="slider-details">
-											<h4 class="slider-tag">Travelling</h4>
-											<h1 class="slide_heading"><span>Greatest Adventure</span></h1>
+											<h4 class="slider-tag">TOAST</h4>
+											<h1 class="slide_heading"><span>To Happiness</span></h1>
 											<div class="button_group">
 												<a href="/gallery" class="button effect_3 fade_black_button"><span>Explore Gallery</span></a>
 											</div>

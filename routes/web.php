@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ReservationController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,3 +22,21 @@ Route::get('/', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+
+
+Route::get('/confirmed', function () {
+    return view('confirmed');
+});
+
+Route::post('/reservation', [ReservationController::class, 'store']);
+
+Route::get('/lists', [ReservationController::class, 'lists']);
+
+
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
+
+require __DIR__.'/auth.php';
+

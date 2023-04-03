@@ -69,7 +69,7 @@
 	                		<li class="menu-item active"><a href="/">Home</a>
 
 							</li>
-							<li class="menu-item"><a href="#">Gallery</a>
+							<li class="menu-item"><a href="/gallery">Gallery</a>
 
 							</li>
 
@@ -88,7 +88,7 @@
 						<div class="swiper-wrapper">
 						  	<div class="swiper-slide">
 								<div class="slider_item" style="background-image:url('images/slider/bg_3.jpg')">
-									<div class="slider-inner">
+									<div class="slider-inner border border-0">
 										<div class="slider-details">
 											<h4 class="slider-tag">15th, APRIL, 2023</h4>
 											<h1 class="slide_heading"><span>Cynthia & Paul</span></h1>
@@ -104,7 +104,7 @@
 						  	</div>
 						  	<div class="swiper-slide">
 								<div class="slider_item" style="background-image:url('images/slider/bg_4.jpg')">
-									<div class="slider-inner">
+									<div class="slider-inner border border-0">
 										<div class="slider-details">
 											<h4 class="slider-tag">TRADITIONAL WEDDING</h4>
 											<h1 class="slide_heading"><span>Ifeyinwa & Shekwonyadu</span></h1>
@@ -120,7 +120,7 @@
 							</div>
 							<div class="swiper-slide">
 								<div class="slider_item" style="background-image:url('images/slider/bg_2.jpg')">
-									<div class="slider-inner">
+									<div class="slider-inner border border-0">
 										<div class="slider-details">
 											<h4 class="slider-tag">RSVP</h4>
 											<h1 class="slide_heading"><span>Celebrating Love</span></h1>
@@ -135,8 +135,8 @@
 								</div>
 						  	</div>
 						  	<div class="swiper-slide">
-								<div class="slider_item" style="background-image:url('images/slider/bg_3.jpg')">
-									<div class="slider-inner">
+								<div class="slider_item" style="background-image:url('images/slider/bg_5.jpg')">
+									<div class="slider-inner border border-0">
 										<div class="slider-details">
 											<h4 class="slider-tag">Travelling</h4>
 											<h1 class="slide_heading"><span>Greatest Adventure</span></h1>
@@ -144,7 +144,7 @@
 												<a href="/gallery" class="button effect_3 fade_black_button"><span>Explore Gallery</span></a>
 											</div>
 										</div>
-										<a class="popup fancyswiper" href="images/slider/bg_3.jpg" data-fancybox="images">
+										<a class="popup fancyswiper" href="images/slider/bg_66.jpg" data-fancybox="images">
 											<img src="images/icon-img/g-icon2.png" alt="icon">
 										</a>
 									</div>

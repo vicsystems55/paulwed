@@ -30,7 +30,9 @@ Route::get('/confirmed', function () {
 
 Route::post('/reservation', [ReservationController::class, 'store']);
 
-Route::get('/lists', [ReservationController::class, 'lists']);
+Route::get('/lists', [ReservationController::class, 'lists'])->middleware('auth');
+
+
 
 
 
@@ -39,4 +41,10 @@ Route::get('/dashboard', function () {
 })->middleware(['auth'])->name('dashboard');
 
 require __DIR__.'/auth.php';
+
+Route::get('/register', function ()
+{
+    # code...
+    return redirect('/login');
+});
 

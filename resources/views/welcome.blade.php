@@ -55,7 +55,7 @@
 						</div>
 						<div class="nav_contact">
 							<div class="element">
-						
+
 								<h6 class="phone">+23480337835670</h6>
 							</div>
 						</div>
@@ -66,7 +66,7 @@
 	                <a href="#" class="overlaynavclose">&times;</a>
 	                <nav id="overlaymenu">
 	                	<ul class="main-menu">
-	                		<li class="menu-item active"><a href="/">Dashboard</a>
+	                		<li class="menu-item active"><a href="/">Home</a>
 
 							</li>
 							<li class="menu-item"><a href="/gallery">Gallery</a>

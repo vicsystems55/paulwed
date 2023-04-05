@@ -52,10 +52,6 @@
 
 									</li>
 
-									<li class="menu-item"><a href="#">Contacts</a>
-
-									</li>
-
 
 								</ul>
 							</div>
@@ -85,7 +81,7 @@
 
 							</li>
 
-						
+
 
 
 						</ul>

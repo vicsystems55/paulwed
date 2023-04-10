@@ -107,7 +107,7 @@
 
 
 								<div class="button_group">
-                                    <a href="#" class="button black_button effect_1" data-text="Read More"><span>GALLERY</span></a>
+                                    <a href="/gallery" class="button black_button effect_1" data-text="Read More"><span>GALLERY</span></a>
                                 </div>
 							</div>
 						</div>

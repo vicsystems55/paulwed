@@ -175,7 +175,7 @@ u + #body a {color:inherit;text-decoration:none;font-size:inherit;font-family:in
   <!-- blue-header -->
   <tr>
     <td align="center" class="img-responsive container-padding">
-      <img class="auto-width" style="display:block;width:100%;max-width:100%;border:0px;" data-image-edit data-url data-label="Header image" width="640" src="{{asset('mails_assets')}}/images/header-6.jpg" border="0" editable="true" alt="picture">
+
     </td>
   </tr>
   <!-- blue-header -->
@@ -198,7 +198,7 @@ u + #body a {color:inherit;text-decoration:none;font-size:inherit;font-family:in
           <td class="center-text" data-text-style="Sublines" align="center" style="font-family:'Barlow',Arial,Helvetica,sans-serif;font-size:14px;line-height:24px;font-weight:900;font-style:normal;color:#50C0FF;text-decoration:none;letter-spacing:1px;">
               <singleline>
                 <div mc:edit data-text-edit>
-                  HI, {{$data['name']}} HERE IS YOUR INVITATION
+                 
                 </div>
               </singleline>
           </td>
@@ -207,7 +207,9 @@ u + #body a {color:inherit;text-decoration:none;font-size:inherit;font-family:in
           <td class="center-text" data-text-style="Headlines" align="center" style="font-family:'Barlow',Arial,Helvetica,sans-serif;font-size:48px;line-height:54px;font-weight:900;font-style:normal;color:#222222;text-decoration:none;letter-spacing:0px;">
               <singleline>
                 <div mc:edit data-text-edit>
-                  You are invited to our wedding
+                    NAME:  {{$data['name']}} <br>
+                    INVITEEES: {{$data['invitees']}} <br>
+                    PHONE: {{$data['phone']}}
                 </div>
               </singleline>
           </td>
@@ -267,7 +269,7 @@ u + #body a {color:inherit;text-decoration:none;font-size:inherit;font-family:in
             <table border="0" align="center" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="width:100%;max-width:100%;">
               <tr>
                 <td align="center">
-                  <img class="auto-width" style="display:block;width:100%;max-width:140px;border:6px solid #FFFFFF;border-radius:100%;" data-image-edit data-url data-border-radius-default="0,6,36" data-border-radius-custom="Picture" data-label="Picture" width="100" src="{{asset('mails_assets')}}/images/img_avatar.jpg" border="0" editable="true" alt="picture">
+                  {{-- <img class="auto-width" style="display:block;width:100%;max-width:140px;border:6px solid #FFFFFF;border-radius:100%;" data-image-edit data-url data-border-radius-default="0,6,36" data-border-radius-custom="Picture" data-label="Picture" width="100" src="{{asset('mails_assets')}}/images/img_avatar.jpg" border="0" editable="true" alt="picture"> --}}
                 </td>
               </tr>
             </table>
@@ -281,26 +283,7 @@ u + #body a {color:inherit;text-decoration:none;font-size:inherit;font-family:in
               <table border="0" align="center" cellpadding="0" cellspacing="0" role="presentation" class="row" width="100%" style="width:100%;max-width:100%;">
                 <tr data-element="blue-invitation-message-paragraph" data-label="Paragraphs">
                   <td class="center-text" data-text-style="Paragraphs" align="left" style="font-family:'Barlow',Arial,Helvetica,sans-serif;font-size:16px;line-height:24px;font-weight:400;font-style:italic;color:#333333;text-decoration:none;letter-spacing:0px;">
-                      <singleline>
-                        <div mc:edit data-text-edit>
-                          "Exciting news!
-                          <br><br>
-                         The families of<br>
-                         Late Mr. C.C & MRS. Rosemary Gosioha <br>
-                         &<br>
-                         Rev. Dr. B.B & Rev. Mrs. Yosi Tnushi <br>
-                         Will be delighted to have your company at the marriage of <br>
-                         Ifenyinwa & Shekwonyadu
-                          <br><br>
-                         
-                        Venue: New Estate Baptist Church Gudu, Abuja
-                        <br>
-                        Date & Time: 20th May, 2023 | 10am
-                        <br>
-                        
-                        Remail blessed."
-                        </div>
-                      </singleline>
+                   
                   </td>
                 </tr>
               </table>

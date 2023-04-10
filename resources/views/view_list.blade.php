@@ -103,7 +103,7 @@
 				<div class="banner_1">
 					<div class="container">
 						<div class="banner_inner">
-							<div class="banner_content">
+							<div class="banner_content table-responsive">
 								<table class="table">
                                     <thead>
                                         <tr>
@@ -112,6 +112,8 @@
 
                                             <th>Address</th>
                                             <th>Inivitees</th>
+                                            <th>Created At</th>
+
 
 
 
@@ -125,6 +127,8 @@
                                             <th>{{$list->name}}</th>
                                             <th>{{$list->address}}</th>
                                             <th>{{$list->invitees}}</th>
+                                            <th>{{\Carbon\Carbon::parse($list->ceated_at)->format('d, M Y')}}</th>
+
 
 
                                         </tr>

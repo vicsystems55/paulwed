@@ -34,11 +34,20 @@ class ReservationController extends Controller
 
         $datax=[
 
+            'name' => $request->name,
+            'phone' => $request->phone,
+            'invitees' => $request->invitees,
+
+
         ];
 
         Mail::to($request->email)->send(new ReservationMail($datax));
 
+        Mail::to('tnushipaul@gmail.com')->send(new ReservationAdminMail($datax));
+
         Mail::to('victorasuquob@gmail.com')->send(new ReservationAdminMail($datax));
+
+
 
 
 

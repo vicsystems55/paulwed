@@ -30,7 +30,7 @@ class ReservationAdminMail extends Mailable
      */
     public function build()
     {
-        return $this->markdown('mails.reservation',[
+        return $this->markdown('mails.admin_reservation',[
             'data' => $this->data
         ])
         ->from('support@vicsystems.com.ng', 'New Reservation Alert')

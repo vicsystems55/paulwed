@@ -83,7 +83,7 @@
 
 							</li>
 
-					
+
 
 
 						</ul>
@@ -96,10 +96,26 @@
 		        <div class="page-header type1">
 		            <div class="page-header-content text-center">
 		                <div class="container">
+                            <h5 class="text-center text-white">DATE | TIME</h5>
+                            <h4 class="slider-tag text-white"> 20th May, 2023 | 10:00am </h4>
+                            <br>
+                            <h5 class="text-center text-white">VENUE</h5>
+
+                            <h4 class="slider-tag text-white">New Estate Baptist Church, Gudu Abuja.</h4>
+                            <br>
+                            <h5 class="text-center text-white">RECEPTION</h5>
+                            <h4 class="slider-tag text-white"> The Meeting Point, Opp. Prince and Princess Junction, Abuja </h4>
+                            <br>
 		                    <h1 class="heading">
 		                    	Gallery
 		                    	<span class="icon"><i class="fa fa-camera"></i></span>
 		                    </h1>
+
+                            <br>
+
+
+
+
 							<p>What God has joined together let no man put asunder</p>
 		                </div>
 		            </div>

@@ -56,7 +56,7 @@
 						<div class="nav_contact">
 							<div class="element">
 
-								<h6 class="phone">+23480337835670</h6>
+								<h6 class="phone">+234 706 624 6938 </h6>
 							</div>
 						</div>
 					</div>
@@ -88,7 +88,9 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_3.jpg')">
 									<div class="slider-inner border border-0">
 										<div class="slider-details">
-											<h4 class="slider-tag">15th, APRIL, 2023</h4>
+                                            <h5 class="text-center text-white">DATE | TIME</h5>
+											<h4 class="slider-tag"> 20th May, 2023 | 10:00am </h4>
+
 											<h1 class="slide_heading"><span>Cynthia & Paul</span></h1>
 											<div class="button_group">
 												<a href="/gallery" class="button effect_1 fade_black_button"><span>Explore Gallery</span></a>
@@ -104,7 +106,11 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_4.jpg')">
 									<div class="slider-inner border border-0">
 										<div class="slider-details">
-											<h4 class="slider-tag">TRADITIONAL WEDDING</h4>
+
+                                            <h5 class="text-center text-white">VENUE</h5>
+
+											<h4 class="slider-tag">New Estate Baptist Church, Gudu Abuja.</h4>
+
 											<h1 class="slide_heading"><span>Ifeyinwa & Shekwonyadu</span></h1>
 											<div class="button_group">
 												<a href="/gallery" class="button effect_2 fade_black_button"><span>Explore Gallery</span></a>
@@ -120,7 +126,10 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_2.jpg')">
 									<div class="slider-inner border border-0">
 										<div class="slider-details">
-											<h4 class="slider-tag">RSVP</h4>
+                                            <h5 class="text-center text-white">RECEPTION</h5>
+											<h4 class="slider-tag"> The Meeting Point, Opp. Prince and Princess Junction, Abuja </h4>
+
+
 											<h1 class="slide_heading"><span>Celebrating Love</span></h1>
 											<div class="button_group">
 												<a href="/gallery" class="button effect_1 fade_black_button"><span>Explore Gallery</span></a>
@@ -136,7 +145,10 @@
 								<div class="slider_item" style="background-image:url('images/slider/bg_5.jpg')">
 									<div class="slider-inner border border-0">
 										<div class="slider-details">
-											<h4 class="slider-tag">TOAST</h4>
+
+                                            <h5 class="text-center text-white">RSVP</h5>
+
+											<h4 class="slider-tag">+234 706 624 6938<br>+234 706 186 8454</h4>
 											<h1 class="slide_heading"><span>To Happiness</span></h1>
 											<div class="button_group">
 												<a href="/gallery" class="button effect_3 fade_black_button"><span>Explore Gallery</span></a>

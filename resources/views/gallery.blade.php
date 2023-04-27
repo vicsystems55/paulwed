@@ -126,6 +126,43 @@
 				<div class="portfolio-grid">
 					<div class="overlay_effect grid grid-5 gutter-0 clearfix">
 						<div class="grid-sizer small"></div>
+                        <div class="grid-item webdesign">
+
+							<div class="thumb">
+								<video width="320" height="240" controls autoplay>
+                                    <source src="images/portfolio/grid/11.mp4" type="video/mp4">
+                                    <source src="images/portfolio/grid/11.mp4" type="video/ogg">
+                                  Your browser does not support the video tag.
+                                  </video>
+
+							</div>
+						</div>
+                        <div class="grid-item webdesign">
+
+							<div class="thumb">
+								<video width="320" height="240" controls autoplay>
+                                    <source src="images/portfolio/grid/22.mp4" type="video/mp4">
+                                    <source src="images/portfolio/grid/22.mp4" type="video/ogg">
+                                  Your browser does not support the video tag.
+                                  </video>
+
+							</div>
+						</div>
+                        <div class="grid-item webdesign">
+							<div class="thumb">
+								<img class="item_image" style="" src="images/portfolio/grid/13.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div class="grid-item webdesign">
 							<div class="thumb">
 								<img class="item_image" style="" src="images/portfolio/grid/1.jpg" alt=""/>
@@ -374,6 +411,24 @@
 								</div>
 							</div>
 						</div>
+
+                        <div class="grid-item webdesign">
+							<div class="thumb">
+								<img class="item_image" src="images/portfolio/grid/12.jpg" alt=""/>
+								<div class="works-info">
+									<div class="label-text">
+
+										<ul class="social">
+											<li><a href="#"><i class="fa fa-heart"></i></a></li>
+											<li><a href="#"><i class="fa fa-download"></i></a></li>
+
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
 					</div>
 				</div>
 
